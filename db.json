@@ -52,21 +52,6 @@
       ]
     },
     {
-      "title": "Satchel: The Life and Times of an American Legend",
-      "author": "Larry Tye",
-      "isbn": "0812977971",
-      "publicationDate": "2010-05-04",
-      "createdAt": "2021-06-27T19:44:37.598Z",
-      "updatedAt": "2021-06-27T19:44:37.598Z",
-      "id": 6,
-      "links": [
-        {
-          "rel": "self",
-          "href": "http://localhost:3000/books/6"
-        }
-      ]
-    },
-    {
       "title": "Writing To Learn",
       "author": "William Zinsser",
       "isbn": "0062720406",
@@ -378,6 +363,21 @@
         {
           "rel": "self",
           "href": "http://localhost:3000/books/27"
+        }
+      ]
+    },
+    {
+      "title": "You Are You Love: The Spiritual Power of Habit",
+      "author": "James K.A. Smith",
+      "isbn": "158743380X",
+      "releaseDate": "2016-03-05",
+      "createdAt": "2021-09-10T00:50:33.510Z",
+      "updatedAt": "2021-09-10T00:50:33.510Z",
+      "id": 28,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/28"
         }
       ]
     }
