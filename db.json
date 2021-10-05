@@ -380,6 +380,30 @@
           "href": "http://localhost:3000/books/28"
         }
       ]
+    },
+    {
+      "title": "The Bruised Reed",
+      "author": "Richard Sibbes",
+      "isbn": "0851517404",
+      "releaseDate": "1998-03-01",
+      "createdAt": "2021-09-10T07:16:39.102Z",
+      "updatedAt": "2021-09-10T07:16:39.102Z",
+      "id": 29,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/29"
+        }
+      ]
+    },
+    {
+      "title": "The Bruised Reed",
+      "author": "Richard Sibbes",
+      "isbn": "0851517404",
+      "releaseDate": "1998-03-01",
+      "createdAt": "2021-09-10T07:21:29.995Z",
+      "updatedAt": "2021-09-10T07:21:29.995Z",
+      "id": 30
     }
   ],
   "households": [
