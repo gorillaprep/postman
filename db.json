@@ -404,6 +404,45 @@
       "createdAt": "2021-09-10T07:21:29.995Z",
       "updatedAt": "2021-09-10T07:21:29.995Z",
       "id": 30
+    },
+    {
+      "title": "You are the Coolest",
+      "author": "Michael Bruns",
+      "isbn": "925683432x",
+      "releaseDate": "2016-04-05",
+      "createdAt": "2021-10-05T23:49:32.745Z",
+      "updatedAt": "2021-10-05T23:49:32.745Z",
+      "id": 31,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/31"
+        }
+      ]
+    },
+    {
+      "title": "The Bruised Read",
+      "author": "Richard Sibbes",
+      "isbn": "0851517404",
+      "releaseDate": "1998-03-01",
+      "createdAt": "2021-10-06T00:15:06.736Z",
+      "updatedAt": "2021-10-06T00:15:06.736Z",
+      "id": 32,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/32"
+        }
+      ]
+    },
+    {
+      "title": "The Bruised Reed",
+      "author": "Richard Sibbes",
+      "isbn": "0851517404",
+      "releaseDate": "1998-03-01",
+      "createdAt": "2021-10-06T00:52:47.766Z",
+      "updatedAt": "2021-10-06T00:52:47.766Z",
+      "id": 33
     }
   ],
   "households": [
